@@ -1,0 +1,13 @@
+Status,Client Name,Go-Live Date,Queues,Monthly Minimum,Channel
+Current Month Go-Live,Client A,01-03-2024,q1,1000,Online
+Current Month Go-Live,Client D,15-03-2024,q2,500,Online
+Upcoming,Client B,15-04-2024,q3,800,Retail
+Upcoming,Client E,01-05-2024,q4,1200,Retail
+Discontinued,Client C,01-12-2023,q1,600,Offline
+Discontinued,Client F,20-10-2023,q1,400,Offline
+Current Month Go-Live,Client g,21-10-2023,q5,1000,Online
+Current Month Go-Live,Client h,22-10-2023,q2,500,Online
+Upcoming,Client i,23-10-2023,q3,800,Retail
+Upcoming,Client j,24-10-2023,q4,1200,Retail
+Discontinued,Client k,25-10-2023,q2,600,Offline
+Discontinued,Client l,26-10-2023,q1,400,Offline
